@@ -5,7 +5,7 @@
 This repository provides code for estimation of Gutenberg-Richter law $b$ value using Particle Filter. 
 
 ## Tutorial
-Example of estimating $b$ value is displayed by [notebook](X).
+Example of estimating $b$ value is displayed by [notebook](https://github.com/D-I-29/gr-b-pf/blob/main/notebook/notebook_demo.ipynb).
 
 ## Quick Start
 You can set up calculating environment and run code as following.
