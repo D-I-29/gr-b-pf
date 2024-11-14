@@ -31,7 +31,7 @@ python3 run.py [--data DATA] [--num_particle NUM_PARTICLE] [--m_lower M_LOWER]
 Results of estimating $b$ value are put at the directory `./result/` as CSV file.
 
 ## Models
-Models implemented in this code are described at our [paper (under review)](X). Below models are supported.
+Models implemented in this code are described at our [paper](https://www.nature.com/articles/s41598-024-54576-x). Below models are supported.
 
 ##### Type of GR law
 - Exponential distribution
